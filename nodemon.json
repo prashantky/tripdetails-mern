@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"Prashant",
+        "DB_PASSWORD":"Kishan1234@",
+        "DB_NAME":"mearpost",
+        "JWT_KEY":"supersecret_dont_share"
+    }
+}
